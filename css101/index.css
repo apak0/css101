@@ -1,0 +1,30 @@
+div {
+  text-align: right;
+}
+
+.robinic {
+  background-color: rgb(39, 202, 181);
+  text-align: center;
+  padding: 20px;
+  color: rgba(212, 22, 140, 0.753);
+}
+i {
+  cursor: pointer;
+}
+
+.a {
+  text-decoration: none;
+  margin: 50px;
+}
+
+.welcome {
+  text-align: center;
+
+  background-color: aqua;
+}
+
+.img1 {
+
+ margin-right: 20px;
+float: left;
+}
